@@ -4,4 +4,5 @@ if ($LatestSSU)
     Exit 0
 }
 else{
+    Write-Host "Test"
 }
